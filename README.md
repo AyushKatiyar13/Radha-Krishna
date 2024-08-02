@@ -27,4 +27,4 @@ This project was a personal challenge to explore the intersection of art and tec
 
 Feel free to dive into the code, modify it, or use it as a starting point to explore Python's graphical capabilities further. This project celebrates the fusion of art and technology, showing how programming can transcend its conventional roles to create something truly beautiful.
 
-Thank you for exploring this artistic venture with me! 🌟
+## Thankyou 😊⭐ for exploring this artistic venture with me! 🌟
