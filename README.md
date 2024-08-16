@@ -3,7 +3,7 @@
 ### Introduction
 In this project, I embarked on an artistic journey using Python's turtle graphics to create a vivid depiction of Radha Krishna. By leveraging the turtle module, I transformed traditional art into a digital masterpiece, blending creativity with coding.
 
-### Tools and Techniques
+### Tools and Techniques:
 
 #### Turtle Graphics 🖼️
 - **What It Is:** Turtle graphics is a module in Python that allows drawing shapes and patterns on a digital canvas. Commands such as "move forward," "turn left," and "draw a circle" guide the turtle to create intricate visuals.
